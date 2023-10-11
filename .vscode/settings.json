@@ -8,5 +8,6 @@
         "devcontainer",
         "devcontainers",
         "prebuild"
-    ]
+    ],
+    "workbench.sideBar.location": "right",
 }
